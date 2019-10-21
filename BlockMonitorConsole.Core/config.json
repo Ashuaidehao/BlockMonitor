@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    "http://127.0.0.1:30332"
+
+  ],
+  "email": {
+    "username": "lishuai@ngd.neo.org",
+    "password": "",
+    "from": "neowish monitor"
+
+  },
+  "contact": [
+    "lishuai@ngd.neo.org",
+    "lishuai@onchain.com"
+  ]
+}
